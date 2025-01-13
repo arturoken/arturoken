@@ -1,15 +1,15 @@
-Hi 👋 My name is Kendrik González
+Hola 👋 Mi nombre es Kendrik Arturo Gonzalez Escorche
 =================================
 
 Desarrollador Web
 -----------------
 
-Talento profesional en desarrollo web con gran experiencia en una amplia gama de lenguajes de programación y herramientas de diseño. Experto en producir código limpio y seguro basado en las necesidades individuales del cliente. Centrado en deleitar a los clientes con diseños innovadores y fáciles de usar
+Soy desarrollador full stack con experiencia en el desarrollo de aplicaciones web completas y escalables. Me apasiona combinar mis habilidades en frontend y backend para crear soluciones integrales que ofrezcan un alto rendimiento y una gran experiencia de usuario. A lo largo de mi carrera, he trabajado con frameworks modernos como React, Angular y Node.js, además de diseñar APIs, gestionar bases de datos y depurar código. También tengo un buen manejo en diseño responsivo, accesibilidad web y herramientas de control de versiones. Siempre busco escribir código limpio, organizado y bien documentado, con el objetivo de construir aplicaciones sólidas y funcionales que hagan la diferencia.
 
-* 🌍  I'm based in Venezuela
-* 🖥️  See my portfolio at [Portafolio](http://kendrikgonzalez.com)
-* ✉️  You can contact me at [kendrikgonzalez109@gmail.com](mailto:kendrikgonzalez109@gmail.com)
-* 🧠  I'm learning ReactJs
+* 🌍  Soy un Venezolano viviendo es España
+* 🖥️  Puedes ver mi portafolio en [Portafolio](http://kendrikgonzalez.com)
+* ✉️  Puedes Contactar conmigo a travez de [kendrikgonzalez109@gmail.com](mailto:kendrikgonzalez109@gmail.com)
+* 🧠  Mi lenguaje favorito es Reactjs
 
 ### Skills
 
